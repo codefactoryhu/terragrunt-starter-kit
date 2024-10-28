@@ -1,6 +1,6 @@
 locals {
     project = "example"
-    region  = "us-east-1"
+    region  = "eu-west-2"
 
     organization_id      = "a-acbdef1234"
     organization_root_id = "a-ab12"
